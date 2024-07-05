@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: opx;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+body{
+    background-color: rgba(0, 145, 255, 0.767);
+    /* position: absolute; */
+}
+.sign{
+    background-color: whitesmoke;
+    padding: 20px 50px;
+    margin-top: 100px;
+    width: fit-content;
+    border-radius: 10px;
+    position: relative;
+    left:40% ;
+    top: 50%;
+} 
+/* .sign{
+    background-color: whitesmoke;
+    padding: 20px 50px;
+    margin-top: 100px;
+    width: fit-content;
+    border-radius: 10px;
+    display: flex;
+} */
+button{
+    width: 100%;
+}
+p{
+    font-size: small;
+    text-align: right;
+}
+h3{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+button{
+    background-color: rgba(0, 145, 255, 0.767);
+    border-color: rgba(0, 145, 255, 0.767);
+    color: whitesmoke;
+    
+}6
+label,button{
+    font-size: small;
+}
+input{
+     m          
+}
